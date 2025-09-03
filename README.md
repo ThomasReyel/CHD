@@ -19,6 +19,10 @@ Trata-se de um sistema web concebido como uma rede social exclusiva para ONGs, c
   
 <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/php/php.png" alt="PHP" width="40" height="40">
 
+- Banco de Dados
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="40" height="40" />
+          
 ## ⚙️ Funcionalidades Implementadas
 
 ✅ Sistema de Cadastro de Usuários
